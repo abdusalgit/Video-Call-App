@@ -21,6 +21,7 @@ var recordedChunks = [];
 var mediaRecorder = null;
 
 const room = getRoom();
+const room = getromm();
 
 
 window.addEventListener('load', function(){
